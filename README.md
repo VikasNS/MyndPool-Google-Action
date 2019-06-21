@@ -1,2 +1,5 @@
 # MyndPool-Google-Action
-MyndPool Google Action
+MyndPool is a knowledge-sharing tool designed to bring together employees who could benefit from each other. Using myndpool you can quickly find someone in the company who can help you when you get stuck. You can chat to or email the myndpool concierge as you would with a real person. We use artificial intelligence to interpret the content and bring the right people together.” While in the past tools like this expected the user to do all the work, e.g. by uploading detailed knowledge to an intranet, with myndpool the work is done by the machine. “The app asks the user a few quick questions every now and then to get to know the employee and his expertise,” says Jakob. With each interaction the system learns a bit more and gets even better at matching up people who would profit from each other. “Myndpool is the new stock answer to the question: ‘Who could help me out with this?’”
+
+## MyndPool Demo Video (https://www.youtube.com/watch?v=m4bm2CrnXV8)
+![alt text](https://i.ytimg.com/vi/m4bm2CrnXV8/hqdefault.jpg?sqp=oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAZpssabnfYCwdgnRszbVB2sHC6Jw)
